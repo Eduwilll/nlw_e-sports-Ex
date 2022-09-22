@@ -137,6 +137,20 @@ section ul li:hover {
     width: 70px;
 }
 
+footer p {
+    text-align:center;
+    letter-spacing: -0.18px;
+    color: #A1A1AA;
+}
+
+footer p a {
+    background: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    background-position: bottom;
+    background-size: 100% 2px;
+    background-repeat: no-repeat;
+    text-decoration: none;
+}
+
 /* animation */
 
 @keyframes fromTop {
